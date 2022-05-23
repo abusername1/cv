@@ -16,3 +16,16 @@ Telegram: @notthatcrackhead
 ___
 ### Education
 IT Manager, 1 grade, VSU named after P. M. Masherov
+
+### English level
+C1
+___
+### Code example
+
+C++  
+
+#include <iostream>
+int main() {
+  std::cout << "Hello, World!";
+  return 0;
+ }
